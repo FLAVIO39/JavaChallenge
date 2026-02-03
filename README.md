@@ -1,4 +1,5 @@
-<h1># ↪ Java <h1\>
-Os código inseridos nesse reposítório, são exercicios do treinamento de Java
-do canal do Youtube de Loiane Groner!
+<h1> # ↪ Java <h1\>
+  
+<h4>Os códigos presentes neste repositório são exercícios desenvolvidos durante o treinamento de Java oferecido no canal do YouTube da Loiane Groner.!<h4\>
+
 
