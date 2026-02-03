@@ -1,4 +1,4 @@
-# JavaChallenge
-Repositório de estudo  projeto challenge java
+<h1># ↪ Java <h1\>
+Os código inseridos nesse reposítório, são exercicios do treinamento de Java
+do canal do Youtube de Loiane Groner!
 
-<h1>##🚫 Não preencha essas informações!<h1/>
